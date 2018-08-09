@@ -1,6 +1,6 @@
 FROM redis:3.2
 
-MAINTAINER Webjump Magento <dev@webjump.com.br>
+MAINTAINER Luderson Costa <luderson@gmail.com>
 
 RUN apt-get update && \
     apt-get upgrade -y
